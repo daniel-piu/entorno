@@ -13,7 +13,7 @@ public class TresEnRayaa {
 	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	char tablero[][];
 	char turno;
-	static int tom=3;
+	static int tom=4;
 	static int contador=0;
 	public TresEnRayaa(int tam) {
 		tablero=new char[tam][tam];
