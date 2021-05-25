@@ -13,9 +13,9 @@ import javax.swing.JPanel;
 /**************************************/
 public class Triangulo extends JPanel {
 	Polygon poly; //atributo para almacenar el polígono
-	int xPoly[]; //vector de coordenadas X
-    int yPoly[]; //vector de coordenadas Y
-    Color Fondo; //Color de fondo del polígono
+	int xPoly[]; //vector de coordenadas Xeriughetuiogheiuobghithuitheuigtfbeirug
+    int yPoly[]; //vector de coordenadas Y uyfgyufi
+    Color Fondo; //Color de fondo del polígonohguyfgtyfuyf
     Color Linea; //Color de línea
     
     //Constructor por parámetro para construir un triángulo dadas
